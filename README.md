@@ -37,6 +37,28 @@
 
 ---
 
+### 🧠 Core Design Expertise
+
+**Analog Circuit Design**
+`Analog Circuit Design` `LDO Design` `Bandgap Reference (BGR)` `Operational Amplifier` `Op-Amp Design` `Charge Pump Design` `Current Mirror` `Constant-gm Bias` `Biasing Circuit Design`
+
+**Mixed-Signal & Data Converters**
+`SAR ADC` `DAC Design` `R-2R Ladder DAC` `Segmented DAC` `Mixed-Signal Design` `AMS Design`
+
+**EDA Tools**
+`Cadence Virtuoso` `ADE L/XL` `Spectre` `SPICE Simulation` `LTspice` `SIMetrix` `Synopsys EDA`
+
+**Simulation & Verification**
+`Monte Carlo Analysis` `PVT Analysis` `AC Analysis` `Transient Analysis` `PSRR` `Stability Analysis` `Mismatch Analysis` `Corner Simulation`
+
+**Process & Design Nodes**
+`VLSI Design` `Full-Custom IC Design` `CMOS Circuit Design` `FinFET Design` `GF 90nm` `TSMC 180nm` `MOSFET Device Physics`
+
+**Scripting**
+`Python Scripting` `Shell Scripting`
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
