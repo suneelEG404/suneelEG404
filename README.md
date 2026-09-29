@@ -196,8 +196,6 @@
   <a href="mailto:suneelpatel1254@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-> 📝 Replace `REPLACE-ME` in the LinkedIn link with your actual profile handle before publishing.
-
----
+https://www.linkedin.com/in/suneel-kumar-p-b4abb4291?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 <p align="center"><i>"Great chips aren't just designed — they're characterized, verified, and refined."</i></p>
