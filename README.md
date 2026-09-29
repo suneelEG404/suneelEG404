@@ -31,8 +31,12 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Cadence%20Virtuoso-FF6600?style=for-the-badge&logo=cadence&logoColor=white" />
   <img src="https://img.shields.io/badge/Spectre-1F6FEB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GF%2090nm-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GPDK%2045nm-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GPDK%2090nm-333333?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TSMC%20180nm-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BiCMOS%20250nm-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TSMC%2014nm%20FinFET-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TSMC%2022nm%20CMOS-333333?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SPICE-00599C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LTspice-0F5FA6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SIMetrix-6A5ACD?style=for-the-badge" />
@@ -61,7 +65,7 @@
 `DC Analysis` `AC Analysis` `Transient Analysis` `Stability (STB)` `PSRR` `Monte Carlo Analysis` `PVT Corner Analysis` `Mismatch Analysis`
 
 **EDA Tools & Process**
-`Cadence Virtuoso` `ADE L/XL` `Spectre` `SPICE` `SIMetrix` `LTspice` `Synopsys Tools` `GF 90nm` `TSMC 180nm`
+`Cadence Virtuoso` `ADE L/XL` `Spectre` `SPICE` `SIMetrix` `LTspice` `Synopsys Tools` `GPDK 45nm` `GPDK 90nm` `TSMC 180nm` `BiCMOS 250nm` `TSMC 14nm FinFET` `TSMC 22nm CMOS`
 
 </td></tr>
 </table>
@@ -164,23 +168,6 @@
 - ✅ Verified noise margins and switching performance across PVT corners
 
 </details>
-
----
-
-### 💼 Work Experience
-
-| Period | Role | Company | Type |
-|---|---|---|---|
-| Jan 2025 – Present | Analog Circuit Designer | Anedge Semiconductor Pvt. Ltd | Full-Time |
-| Jun 2023 – Sep 2023 | Analog Electronics Intern | Anedge Semiconductor Pvt. Ltd | Internship |
-
-### 🎓 Education
-
-| Institution | Qualification | Year / Score |
-|---|---|---|
-| Govt. Engineering College, Rewa (M.P.) | B.Tech – ECE | 2024 · 6.66 CGPA |
-| Government Excellence School, Rewa (M.P.) | Higher Secondary (XII) | 2020 · 86% |
-| Government Excellence School, Rewa (M.P.) | High School (X) | 2018 · 92% |
 
 ---
 
